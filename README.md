@@ -20,6 +20,8 @@ Even with short words, the total length adds up, making the password stronger.
 
 <img src="./images/password-test-validation.png" width="40%" height="40%">
 
+> I used the [PasswordMonster](https://www.passwordmonster.com/) to validate the password strength.
+
 ### Roll Dice to Pick Words
 
 - 1 die → 6 possible outcomes (1-6)
