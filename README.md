@@ -96,7 +96,7 @@ You will need a server to run the PHP file, you can simulate this with `XAMPP`.
 
 <img src="./images/variable-environment-path-4.png" width="40%" height="40%">
 
-12. Click in `Move Up`.
+12. Click in `Move Up` until become high priority.
 
 <img src="./images/variable-environment-path-5.png" width="40%" height="40%">
 
