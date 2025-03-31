@@ -1,9 +1,7 @@
 # Diceware Password Generator PHP
 ## 📷 Demo
 
-<video width="70%" height="70%" controls>
-    <source src="demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/88910206-1e4b-4e41-818c-b7be3f5ba843
 
 ## 🎲 Diceware Method
 
